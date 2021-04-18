@@ -52,6 +52,7 @@ else {
   alert("Sorry we can not give your pet a service ")
 
 }
+
 function Q1() {
   var question1 = prompt("Are you interesting to have a pet?");
   while (question1 !== "yes" && question1 !== "no") {
@@ -76,6 +77,7 @@ function Q1() {
 }
 
 Q1();
+
 
 
 
