@@ -1,4 +1,30 @@
 .pets {
   height: 250px;
+  
+}
+
+header {
+  background-color: burlywood
+
+}
+.pets img {
   width: 250px;
+  border: 40px solid green;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+ul {
+  text-align: center
+
+}
+a{
+  text-decoration: none;
+
+}
+
+
+
+#petbenefits {
+   background-color: yellow;
 }
